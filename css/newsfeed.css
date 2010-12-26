@@ -1,0 +1,19 @@
+/* 
+    Document   : newsfeed
+    Created on : 25 déc. 2010, 11:39:49
+    Author     : manu
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#newsfeed {
+	background: #b3b3b3;
+	border-radius: 5px;
+	float: right;
+	padding: 10px;
+}
+
+#newsfeed h1 {
+	font-size: 14pt;
+	margin: 0px;
+}

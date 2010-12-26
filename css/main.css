@@ -1,0 +1,58 @@
+/* 
+    Document   : main
+    Created on : 26 déc. 2010, 09:45:40
+    Author     : manu
+    Description:
+        CSS principale : à inclure partout
+*/
+
+body {
+	font-family: 'Times';
+}
+
+#content {
+	margin: 0 auto;
+	width: 1024px;
+}
+
+#front_block {
+	background: url('../img/front_block_bg.png') repeat-x;
+	height: 400px;
+	margin-bottom: 10px;
+}
+
+#front_block ul li {
+	list-style: none;
+}
+
+#front_last_mags {
+	float: right;
+}
+
+#front_last_mags li {
+	border: 1px solid black;
+	margin: 10px;
+	height: 120px;
+	width: 80px;
+}
+
+#front_mag_couv {
+	border: 1px solid black;
+	float: left;
+	margin-top: 45px;
+	margin-bottom: 45px;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 300px;
+	width: 250px;
+}
+
+#infos_pdw {
+	float: left;
+	width: 50%;
+}
+
+#last_blog {
+	float: right;
+	width: 50%;
+}

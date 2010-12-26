@@ -1,0 +1,41 @@
+/* 
+    Document   : main
+    Created on : 25 déc. 2010, 10:53:19
+    Author     : manu
+    Description:
+        CSS de l'en-tête
+*/
+
+#header {
+	height: 60px;
+}
+
+#header h1 {
+	font-family: 'Josefin Sans', arial, serif;
+	font-size: 26pt;
+	font-weight: normal;
+	margin: 0px;
+}
+
+#header ul {
+	float: right;
+}
+
+#header ul li {
+	display: inline;
+	list-style: none;
+}
+
+#header ul li a {
+	color: black;
+	font-family: 'Cantarell';
+	font-size: 10pt;
+	margin: 0px;
+	padding: 5px;
+	padding-bottom: 15px;
+	text-decoration: none;
+}
+
+#header ul li a:hover {
+	background: #ddff55;
+}
