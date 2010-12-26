@@ -12,4 +12,8 @@
 		<p>Plumes du Web est un site de pré-publication qui a pour but de faire découvrir de jeunes talents du dessin, de la littérature ou de toute forme d'art.</p>
 		<p><a href="staff.php">Staff</a></p>
 	</div>
+	<div id="social">
+    	<a href="http://www.facebook.com/pages/Plumes-du-Web/159255777453490"><img src="img/facebook.png" alt="Facebook" title="Plumes du Web sur Facebook" /></a>
+    	<img src="img/twitter.png" />
+	</div>
 </div>

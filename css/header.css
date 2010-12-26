@@ -12,6 +12,7 @@
 }
 
 #header h1 {
+	float: left;
 	font-family: 'Josefin Sans', arial, serif;
 	font-size: 26pt;
 	font-weight: normal;
