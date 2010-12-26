@@ -16,7 +16,16 @@ h1 {
 	font-weight: normal;
 }
 
+h1 a {
+	color: #5f7017;
+	text-decoration: none;
+}
+
 h1:hover {
+	color: #a7d200;
+}
+
+h1 a:hover {
 	color: #a7d200;
 }
 
