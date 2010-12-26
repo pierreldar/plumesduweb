@@ -46,7 +46,6 @@ h2:hover {
 
 #front_block {
 	/* background: url('../img/front_block_bg.png') repeat-x; */
-	border-bottom: 3px dotted black;
 	height: 400px;
 	/* margin-bottom: 10px; */
 }
@@ -67,4 +66,8 @@ h2:hover {
 }
 
 #front_mag_txt {
+}
+
+#main {
+	min-height: 400px;
 }

@@ -10,5 +10,6 @@
 	<div id="infos_pdw">
 		<h1>Qu'est ce que Plumes du Web ?</h1>
 		<p>Plumes du Web est un site de pré-publication qui a pour but de faire découvrir de jeunes talents du dessin, de la littérature ou de toute forme d'art.</p>
+		<p><a href="staff.php">Staff</a></p>
 	</div>
 </div>

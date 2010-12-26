@@ -17,29 +17,21 @@
 			<? include 'fragments/header.php'; ?>
 
 			<div id="main">
-				<? // include 'fragments/newsfeed.php'; ?>
-				<div id="front_block">
-				<? /*
-					<ul id="front_last_mags">
-						<li>Novembre 2010</li>
-						<li>Octobre 2010</li>
-						<li style="height: 50px;">Archives</li>
-					</ul>
-                    <div id="front_mag_txt">
-                      <h1>Décembre 2010</h1>
-                      <ul>
-                        <li><b>Littérature</b> Abattoir 9/11</li>
-                        <li><b>Bande dessinée</b></li>
-                        <li><b>Manga</b></li>
-                      </ul>
-                    </div>
-					<div id="twitter_aggreg">
-						Ici, aggrégation Twitter.
-					</div>
-					*/ ?>
-					<h2>Site en construction</h2>
-					<p>Plumes du Web est en pleine réalisation. Vous pouvez néanmoins faire un tour (même s'il n'y a rien) et nous donner votre avis sur le forum.</p>
-				</div>
+				<h2>Staff</h2>
+				
+				<h3>Rédaction</h3>
+				<ul>
+					<li>Flo</li>
+					<li>Lou</li>
+					<li>Pierreldar</li>
+					<li>Souney777</li>
+					<li>Yoyo</li>
+				</ul>
+				
+				<h3>Webmaster</h3>
+				<ul>
+					<li>Manudwarf</li>
+				</ul>
 
 			</div>
 
