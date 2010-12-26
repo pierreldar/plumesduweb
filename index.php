@@ -24,14 +24,14 @@
 						<li>Octobre 2010</li>
 						<li style="height: 50px;">Archives</li>
 					</ul>
-					<div id="front_mag_couv">
-					</div>
-					<h1>Décembre 2010</h1>
-					<ul>
-						<li><b>Littérature</b> Abattoir 9/11</li>
-						<li><b>Bande dessinée</b></li>
-						<li><b>Manga</b></li>
-					</ul>
+                    <div id="front_mag_txt">
+                      <h1>Décembre 2010</h1>
+                      <ul>
+                        <li><b>Littérature</b> Abattoir 9/11</li>
+                        <li><b>Bande dessinée</b></li>
+                        <li><b>Manga</b></li>
+                      </ul>
+                    </div>
 					<div id="twitter_aggreg">
 						Ici, aggrégation Twitter.
 					</div>
